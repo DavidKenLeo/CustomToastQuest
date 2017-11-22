@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomToastQuest</string>
+    <string name="name">請輸入姓名</string>
+    <string name="phone">請輸入電話</string>
+    <string name="choice">請輸入幾號餐?\n(1)麥脆炸雞\n(2)麥克漢堡餐\n(3)勁辣雞腿堡\n(4)麥克雞塊餐\n</string>
+    <string name="choice1">(1)麥脆炸雞</string>
+    <string name="choice2">(2)麥克漢堡餐</string>
+    <string name="choice3">(3)勁辣雞腿堡</string>
+    <string name="choice4">(4)麥克雞塊餐</string>
+    <string name="choice5">(4)錯誤數字</string>
+</resources>
